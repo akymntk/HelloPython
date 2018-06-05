@@ -1,1 +1,2 @@
 print("arashi")
+print("news")
